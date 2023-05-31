@@ -1,0 +1,120 @@
+.Signup {
+    background-color: 'white';
+    background-image: url('../assets/bgimage.png');
+    background-size: cover;
+    height: 120vh;
+    object-fit: cover;
+    display: flex;
+
+    .SignupForm {
+        position: relative;
+        width: 30%;
+        margin: auto;
+        padding: auto;
+        text-align: center;
+        background-color: white;
+        border-radius: 3%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+    }
+
+    .logo {
+        width: 28%;
+        margin-bottom: 5%;
+    }
+
+    .signupLabel {
+        font-weight: 600;
+        margin-bottom: 1%;
+        font-size: 15px;
+    }
+
+    .formInformation {
+        max-width: 90%;
+        margin: auto;
+        // background-color: aqua;
+
+        .mainContainer {
+            max-width: 100%;
+            border-radius: 6px;
+            border: 2px solid rgb(214, 206, 206);
+            //  background-color: green;
+            padding-top: 10px;
+            padding-bottom: 10px;
+
+            .fields {
+                max-width: 88%;
+                margin: auto;
+
+                .imageLabel {
+                    flex-direction: row;
+                    display: flex;
+                    width: 38%;
+
+                    .icon {
+                        width: 8%;
+                        height: 3%;
+                        margin-top: 5%;
+                    }
+
+                    .label {
+                        font-size: 12px;
+                        font-weight: 600;
+                        margin-top: 2%;
+                        margin-left: 4%;
+                    }
+                }
+
+                .textfield {
+                    height: 10%;
+                    margin-top: 1%;
+                    background-color: #EAEFF5;
+
+                    .MuiInputBase-input {
+                        font-size: small;
+                    }
+                }
+            }
+        }
+
+        .heading {
+            margin-top: 1%;
+            display: flex;
+            flex-direction: row;
+
+            .label {
+                font-size: 10px;
+                margin-left: 1%;
+            }
+
+            .blueLabel {
+                font-size: 10px;
+                color: blue;
+                font-weight: 500;
+                margin-left: 1%;
+            }
+        }
+
+        .signIn {
+            flex-direction: row;
+            display: flex;
+            margin-top: 2%;
+            width: 60%;
+            margin-left: 30%;
+
+            .label {
+                font-size: 10px;
+                color: rgb(153, 144, 144);
+                font-weight: 500;
+                margin-top: 5;
+            }
+
+            .labelSignin {
+                font-size: 10px;
+                color: blue;
+                font-weight: '600';
+                margin-left: 1%
+            }
+        }
+    }
+}

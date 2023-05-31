@@ -1,0 +1,120 @@
+// @import '../../App.scss';
+// .screen{
+    
+//     display: flex;
+//     .buttons {
+//         flex-Direction: row;
+//         display: flex;
+//         justify-Content: space-between;
+//         margin-left: 7%;
+//         margin-right: 7%;
+//         margin-bottom: 3%;
+//         width: 85%;
+//         height: 50%;
+//         background-color: red;
+
+//         .emailButtonActive {
+//             width: 35%;
+//             border-radius: 6px;
+//             text-align: center;
+//             color: blue;
+//             border: 1px solid blue;
+//             background-color: white;
+
+//             .labelEmail {
+
+//                 font-size: 11px;
+//                 font-weight: 500;
+//             }
+//         }
+
+//         .emailButtonInAcive {
+//             width: 35%;
+//             border-radius: 6px;
+//             text-align: center;
+//             color: black;
+//             border: #EAEFF5;
+//             background-color: #EAEFF5;
+
+//             .labelEmail {
+//                 font-size: 11px;
+//                 font-weight: 500;
+//             }
+//         }
+
+//     }
+
+//     .cnicButtonActive {
+//         width: 30%;
+//         border-Radius: 6px;
+//         text-align: center;
+//         color: blue;
+//         border: 1px solid blue;
+//         background-color: white;
+
+//         .labelCnic {
+//             font-size: 11px;
+//             font-weight: 500;
+//         }
+//     }
+
+//     .cnicButtonInActive {
+//         width: 30%;
+//         border-Radius: 6px;
+//         text-align: center;
+//         color: black;
+//         border: #EAEFF5;
+//         background-color: #EAEFF5;
+
+//         .labelCnic {
+//             font-size: 11px;
+//             font-weight: 500;
+//         }
+//     }
+
+//     .phonenoButtonActive {
+//         width: 30%;
+//         border-Radius: 6px;
+//         text-align: center;
+//         color: blue;
+//         border: 1px solid blue;
+//         background-color: white;
+
+//         .labelPhone {
+//             font-size: 11px;
+//             font-weight: 500;
+//         }
+//     }
+
+//     .phoneButtonInActive {
+//         width: 30%;
+//         border-Radius: 6px;
+//         text-align: center;
+//         color: black;
+//         border: #EAEFF5;
+//         background-color: #EAEFF5;
+
+//         .labelPhone {
+//             font-size: 11px;
+//             font-weight: 500;
+//         }
+//     }
+// }
+ .ant-table .ant-table-container .ant-table-content table thead.ant-table-thead .ant-table-cell { 
+    background-color: green; } 
+    .ant-table
+    .ant-table-container
+    .ant-table-content
+    table
+    thead.ant-table-thead
+    .ant-table-cell {
+    background-color: rgb(52, 119, 196);
+    border: 1px solid white !important;
+    color: white;
+    }
+// .ant-table-cell{
+//      border: 1px solid white !important;
+// }
+tr:nth-child(odd){ 
+    background: #dce9f3;
+}

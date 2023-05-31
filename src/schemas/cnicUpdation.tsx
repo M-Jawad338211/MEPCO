@@ -1,0 +1,6 @@
+import * as Yup from "yup";
+export const cnicUpdationSchema = Yup.object({
+    Name: Yup.string().min(3).max(25,"Name must be less than 30 character.").required("Name Cannot be Empty"),
+    cnic:Yup.string().min(13).max(14,"Cnic must be 13 digits.").required("Cnic Cannot be Empty"),
+    phone:Yup.string().min(11,"Phone Number  must be 11 digits.").max(11,"Phone Number  must be 11 digits.").required("Phone Number Cannot be Empty"),
+});

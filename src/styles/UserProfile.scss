@@ -1,0 +1,404 @@
+
+
+    
+    
+                .MainHeading {
+                    font-size: 18px;
+                    border-color: white;
+                    border-bottom-color: yellow;
+                    border-bottom: 10;
+                   
+                    
+
+               
+
+                .MainHeading2 {
+                    font-size: 18px;
+                    // margin-left: 0%;
+                    color: black;
+                    border: 5;
+                    border-bottom: 10;
+                    border-color: white;
+                    border-bottom-color: blue;
+                    display: flex;
+                    flex-direction:row;
+                    max-width: 50%;
+                    
+                    
+                   
+                    
+                    
+                }
+        }
+
+        
+        .MeterView{
+            display: flex;
+            flex-direction: row;
+            margin-top: 1.5%;
+            width: 50%;
+            
+            
+
+            .Meter1{
+                display: flex;
+                flex-direction: row;
+                background-color: #E6EAEC;
+                
+               
+                
+                .MeterTextView{
+                    display: flex;
+                    flex-direction: column;
+                    margin-top: '10%';
+                    margin-left: '10%';
+
+                    .TextBox1{
+                        display: flex;
+                        flex-direction: row;
+                        
+                        
+
+                        .Txt1{
+                            display: flex;
+                            color: black;
+                            
+                        }
+
+                        .Txt2{
+                            display: flex;
+                            color: grey;
+                        }
+                    }
+                }
+                
+            }
+            
+            
+            
+
+            .Meter2{
+                display: flex;
+            }
+        }
+
+    .UpdateButton{
+        display: flex;
+        margin-left: 70%;
+    }
+    .Form {
+        display: flex;
+        flex-direction: column;
+        margin-top: 1.5%;
+      
+        width: 75%;
+        border-radius: 30;
+
+                .Bar1 {
+                    display: flex;
+                    flex-direction: row;
+
+                    .Inputview1{
+                        display: flex;
+                        flex-direction: column;
+                        width: 47%;
+                        margin-bottom: 3%;
+                        margin-top: 2%;
+                        margin-left: 1.3%;
+                       
+
+                        .IconTxt {
+                            display: flex;
+                            flex-direction: row;
+
+                            .InputAboveTxt{
+                                font-size: 7;
+                            }
+                            .Icon {
+                                margin-left: 10%;
+                            }
+                        }
+
+                        .NameInputFlield{
+                            display: flex;
+                            margin-left: 1.5%;
+                            width: 160%;
+                            border-radius: 5;
+             
+                        }
+                        .IconPencil{
+                            display: flex;
+                            margin-left: 29%;
+                            z-index: 2;
+                            margin-top: 0.8%;
+                            position: absolute;
+                        }
+
+                        .TextFieldView{
+                            display: flex;
+                            flex-direction: row;
+                        }
+                    }
+
+                    
+                    .Inputview2{
+                        display: flex;
+                        flex-direction: column;
+                        width: 47%;
+                        margin-bottom: 3%;
+                        margin-top: 2%;
+                        margin-left: 2%;
+                       
+
+                        .IconTxt {
+                            display: flex;
+                            flex-direction: row;
+
+                            .InputAboveTxt{
+                                font-size: 7;
+                            }
+                            .Icon {
+                                margin-left: 10%;
+                            }
+                        }
+
+                        .NameInputFlield{
+                            display: flex;
+                            margin-left: 1.5%;
+                            background-color: 'lightgrey';
+                            width: 160%;
+                            border-radius: 5;
+                            border: 0;
+                            
+                            
+
+                        }
+                        .IconPencil{
+                            display: flex;
+                            margin-left: 29%;
+                            z-index: 2;
+                            margin-top: 0.8%;
+                            position: absolute;
+                        }
+
+                        .TextFieldView{
+                            display: flex;
+                            flex-direction: row;
+                        }
+                    }
+     
+                }
+
+
+                .Bar2 {
+                    display: flex;
+                    flex-direction: row;
+
+                    .Inputview1{
+                        display: flex;
+                        flex-direction: column;
+                        width: 47%;
+                        margin-bottom: 3%;
+                        margin-top: -2%;
+                        margin-left: 1.3%;
+                       
+
+                        .IconTxt {
+                            display: flex;
+                            flex-direction: row;
+
+                            .InputAboveTxt{
+                                font-size: 7;
+                            }
+                            .Icon {
+                                margin-left: 10%;
+                            }
+                        }
+
+                        .NameInputFlield{
+                            display: flex;
+                            margin-left: 1.5%;
+                            background-color: 'lightgrey';
+                            width: 160%;
+                            border-radius: 5;
+                            border: 0;
+                            
+                            
+
+                        }
+                        .IconPencil{
+                            display: flex;
+                            margin-left: 29%;
+                            z-index: 2;
+                            margin-top: 0.8%;
+                            position: absolute;
+                            
+                        }
+
+                        .TextFieldView{
+                            display: flex;
+                            flex-direction: row;
+                        }
+                    }
+
+                    
+                    .Inputview2{
+                        display: flex;
+                        flex-direction: column;
+                        width: 47%;
+                        margin-bottom: 3%;
+                        margin-top: -2%;
+                        margin-left: 2%;
+                       
+
+                        .IconTxt {
+                            display: flex;
+                            flex-direction: row;
+
+                            .InputAboveTxt{
+                                font-size: 7;
+                            }
+                            .Icon {
+                                margin-left: 10%;
+                            }
+                        }
+
+                        .NameInputFlield{
+                            display: flex;
+                            margin-left: 1.5%;
+                            width: 160%;
+                            border-radius: 5;
+                            
+                            
+
+                        }
+                        .IconPencil{
+                            display: flex;
+                            margin-left: 20%;
+                            z-index: 2;
+                            margin-top: 0.8%;
+                            position: absolute;
+                        }
+
+                        .TextFieldView{
+                            display: flex;
+                            flex-direction: row;
+                        }
+                    }
+     
+                }
+
+
+
+                .Bar3 {
+                    display: flex;
+                    flex-direction: row;
+
+                    .Inputview1{
+                        display: flex;
+                        flex-direction: column;
+                        width: 47%;
+                        margin-bottom: 3%;
+                        margin-top: -2%;
+                        margin-left: 1.3%;
+                       
+
+                        .IconTxt {
+                            display: flex;
+                            flex-direction: row;
+
+                            .InputAboveTxt{
+                                font-size: 7;
+                            }
+                            .Icon {
+                                margin-left: 10%;
+                            }
+                        }
+
+                        .NameInputFlield{
+                            display: flex;
+                            margin-left: 1.5%;
+                            background-color: 'lightgrey';
+                            width: 160%;
+                            border-radius: 5;
+                            border: 0;
+                            
+                            
+
+                        }
+                        .IconPencil{
+                            display: flex;
+                            margin-left: 29%;
+                            z-index: 2;
+                            margin-top: 0.8%;
+                            position: absolute;
+                        }
+
+                        .TextFieldView{
+                            display: flex;
+                            flex-direction: row;
+                        }
+                    }
+
+                    
+                    .Inputview2{
+                        display: flex;
+                        flex-direction: column;
+                        width: 47%;
+                        margin-bottom: 3%;
+                        margin-top: -2%;
+                        margin-left: 2%;
+                       
+
+                        .IconTxt {
+                            display: flex;
+                            flex-direction: row;
+
+                            .InputAboveTxt{
+                                font-size: 7;
+                            }
+                            .Icon {
+                                margin-left: 10%;
+                            }
+                        }
+
+                        .NameInputFlield{
+                            display: flex;
+                            margin-left: 1.5%;
+                            background-color: 'lightgrey';
+                            width: 160%;
+                            border-radius: 5;
+                            border: 0;
+                            
+                            
+
+                        }
+                        .UpdatePasswordButton{
+                            display: flex;
+                            margin-top: 4%;
+                            margin-left: 25%;
+                        }
+
+                        .NewPassword{
+                            display: flex;
+                            margin-top: 3%;
+                            margin-left: 20%;
+
+                        }
+                        .IconPencil{
+                            display: flex;
+                            margin-left: 29%;
+                            z-index: 2;
+                            margin-top: 0.8%;
+                            position: absolute;
+                        }
+                        
+
+                        .TextFieldView{
+                            display: flex;
+                            flex-direction: row;
+                        }
+                    }
+     
+                }
+    }

@@ -1,0 +1,96 @@
+.MainBoxView{
+    width: 85%;
+    margin-left: 4%;
+
+
+    .Headingtxt{
+        color: black;
+        font-size: 22.5;
+        font-weight: 100;
+        align-items: center;
+        align-content: center;
+        margin-top: 3%;
+        margin-left: 55%;
+        
+        
+    }
+
+    .ChartViewMainBox{
+        display: flex;
+        flex-direction: row;
+        margin-left: 20%;
+        padding: 0%;
+        height: 35%;
+        margin-top: 2%;
+
+        .SliderChartViewBox{
+            display: flex;
+            flex-direction: column;
+            border-radius: 2.5;
+            border: 5;
+            border-color: gray;
+            width: 50%;
+        }
+
+        .CircularChartViewBox{
+            display: flex;
+            flex-direction: row;
+            border-radius: 2.5;
+            border: 5;
+            border-color: gray;
+            margin-left: 2%;
+            width: 50%;
+
+            .CircularChartView1{
+                display: flex;
+                flex-direction: column;
+                width: 50%;
+            }
+
+            .CircularChartView2{
+                display: flex;
+                flex-direction: column;
+                width: 50%;
+            }
+        }
+
+    }
+
+    .TextView {
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        margin-left: 20%;
+        height: 90;
+        background-color: #f0f0f0;
+        margin-bottom: 2%;
+        border-radius: 2.5;
+        margin-top: 1%;
+
+
+        .TextView1 {
+            display: flex;
+            flex-direction: row;
+            width: 100%;
+            margin-top: 1%;
+        }
+
+        .TextView2 {
+            display: flex;
+            flex-direction: row;
+            width: 100%;
+            margin-top: 1%;
+        }
+    }
+
+    .UpdateButton{
+        display: flex;
+        margin-left: 51%;
+        margin-top: 2%;
+        width: 15%;
+        font-weight: 'semibold';
+        
+    }
+
+}
+

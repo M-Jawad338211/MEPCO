@@ -1,0 +1,8 @@
+.drawer  {
+   width: 40%;
+   flex-shrink: 0;
+   & .MuiDrawer-paper {
+     width:10%;
+   //   box-sizing: border-box;
+   }
+ }

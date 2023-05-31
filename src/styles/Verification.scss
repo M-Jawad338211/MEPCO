@@ -1,0 +1,72 @@
+.verification {
+    background-color: 'white';
+    background-image: url('../assets/bgimage.png');
+    background-size: cover;
+    height: 100vh;
+    object-fit: cover;
+    display: flex;
+
+    .verifyForm {
+        position: relative;
+        width: 30%;
+        margin: auto;
+        padding: auto;
+        text-align: center;
+        background-color: white;
+        border-radius: 6%;
+        padding-top: 3%;
+        padding-bottom: 3%;
+        padding-left: 0%;
+        padding-right: 0%;
+
+
+        .logo {
+            width: 30%;
+            margin-bottom: 5%;
+        }
+
+        .formInformation {
+            max-width: 90%;
+            margin: auto;
+
+            .verifyHeading {
+                font-size: 15px;
+                font-weight: 600;
+                display: block;
+                text-align: center
+            }
+
+            .heading {
+                flex-wrap: wrap;
+                width: 50%;
+                margin-left: 25%;
+
+                .enterOtpHeading {
+                    font-size: 11px;
+                    color: grey;
+                    width: 50%;
+                }
+            }
+
+            .resendOtp {
+                font-size: 9px;
+                color: blue;
+                font-weight: 600;
+                margin-left: 45%;
+            }
+
+            .otpbox {
+                margin-top: 5%;
+                width: 70%;
+                height: 35%;
+                margin-left: 15%;
+                // border-radius: 6px;
+                .otp {
+                  width: 100%;
+
+                }
+            }
+
+        }
+    }
+}
