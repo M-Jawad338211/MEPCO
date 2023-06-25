@@ -18,6 +18,8 @@ import { cnicUpdationSchema } from '../schemas/cnicUpdation';
 // unitfactor.org
 // instagram.com/unitfactor_org
 // jawad
+// info@unitfactor.org
+
 const drawerWidth = 240;
 
 const CnicUpdation: React.FC = () => {
