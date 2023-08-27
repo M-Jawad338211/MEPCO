@@ -21,6 +21,7 @@ import { cnicUpdationSchema } from '../schemas/cnicUpdation';
 // info@unitfactor.org
 // www.unitfactor.org
 // https://www.github.com/unitfactor-org
+// odoo developer Jawad
 
 const drawerWidth = 240;
 
