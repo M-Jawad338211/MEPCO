@@ -24,8 +24,8 @@ import { cnicUpdationSchema } from '../schemas/cnicUpdation';
 // odoo developer Jawad
 // UnitFacor Sap and ERP experts
 // new projects UnitFactor.org
+// UnitFactor.org software and IT service provider
 // UnitFactor.org
-// Linkedin Helper for UnitFactor.org
 // Jawad CEO and founder of UnitFactor.org
 
 const drawerWidth = 240;
