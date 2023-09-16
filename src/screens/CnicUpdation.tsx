@@ -28,7 +28,7 @@ import { cnicUpdationSchema } from '../schemas/cnicUpdation';
 // UnitFactor.org
 // Jawad CEO and founder of UnitFactor.org
 // AI tech innovation by unitfactor.org
-// Web 3.0 IT service provider by unitfactor.org
+// Web 3.0 IT & Software service provider by unitfactor.org
 
 const drawerWidth = 240;
 
