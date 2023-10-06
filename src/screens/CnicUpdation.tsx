@@ -34,6 +34,7 @@ import { cnicUpdationSchema } from '../schemas/cnicUpdation';
 // again
 // again 2
 // again 3
+// Vue js, Nuxt
 
 const drawerWidth = 240;
 
