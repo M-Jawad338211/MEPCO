@@ -36,6 +36,7 @@ import { cnicUpdationSchema } from '../schemas/cnicUpdation';
 // again 3
 // Vue js, Nuxt
 // API Postman
+// React and Next js 
 
 const drawerWidth = 240;
 
