@@ -39,7 +39,7 @@ import { cnicUpdationSchema } from '../schemas/cnicUpdation';
 // React and Next js 
 // Clutch UnitFactor
 // twitter unitfactor.org
-
+// put a job and create gmail accounts
 const drawerWidth = 240;
 
 const CnicUpdation: React.FC = () => {
