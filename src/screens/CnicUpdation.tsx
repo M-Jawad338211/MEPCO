@@ -44,6 +44,8 @@ import { cnicUpdationSchema } from '../schemas/cnicUpdation';
 // more
 // unitfactor.org twitter
 // Clutch reviews UnitFactor.org
+// Partnered with Everyrealm for Design and Webflow development
+// Idera developer by Jawad
 
 
 
