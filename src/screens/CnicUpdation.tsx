@@ -40,6 +40,7 @@ import { cnicUpdationSchema } from '../schemas/cnicUpdation';
 // Clutch UnitFactor
 // twitter unitfactor.org
 // put a job and create gmail accounts
+// LESCO duplicate
 
 // more
 // unitfactor.org twitter
