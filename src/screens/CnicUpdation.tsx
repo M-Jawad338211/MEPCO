@@ -42,6 +42,7 @@ import { cnicUpdationSchema } from '../schemas/cnicUpdation';
 // put a job and create gmail accounts
 // LESCO duplicate
 // react hackerrank certification
+// .net
 
 // more
 // unitfactor.org twitter
